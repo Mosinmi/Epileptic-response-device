@@ -10,7 +10,7 @@
 		(rev "1st")
 		(company "DEPARTMENT OF COMPUTER ENGINEERING, UNILAG")
 		(comment 1 "190408063")
-		(comment 2 "Sinmi")
+		(comment 2 "Obafemi-Moses Mosinmiloluwa")
 	)
 	(lib_symbols
 		(symbol "Battery_Management:CN3158"
@@ -6736,7 +6736,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_THT:TO-92L_HandSolder"
 			(at 191.77 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -6824,7 +6824,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D10.0mm"
 			(at 195.58 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -6915,7 +6915,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_Push_2P1T_Toggle_CK_PVA1xxH4xxxxxxV2"
 			(at 78.74 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -6997,7 +6997,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D10.0mm"
 			(at 233.68 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -7168,7 +7168,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
 			(at 230.378 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -7247,7 +7247,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
 			(at 214.63 48.768 90)
 			(hide yes)
 			(show_name no)
@@ -7329,7 +7329,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Buzzer_Beeper:Buzzer_12x9.5RM7.6"
 			(at 230.505 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -7703,7 +7703,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Battery:BatteryHolder_Bulgin_BX0123_1xCR123"
 			(at 49.53 121.666 90)
 			(hide yes)
 			(show_name no)
@@ -7965,7 +7965,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RF_Module:ESP32-S2-WROVER"
+		(property "Footprint" "RF_Module:ESP32-C3-DevKitM-1"
 			(at 170.18 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -8248,7 +8248,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-39-3"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92L_HandSolder"
 			(at 233.68 122.555 0)
 			(hide yes)
 			(show_name no)
@@ -8656,7 +8656,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
 			(at 229.362 132.08 90)
 			(hide yes)
 			(show_name no)
@@ -8738,7 +8738,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
 			(at 231.902 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -8820,7 +8820,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-39-3"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92L_HandSolder"
 			(at 198.12 107.315 0)
 			(hide yes)
 			(show_name no)
@@ -9161,7 +9161,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-39-3"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92L_HandSolder"
 			(at 231.14 48.895 0)
 			(hide yes)
 			(show_name no)
@@ -9268,7 +9268,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
 			(at 177.8 67.818 90)
 			(hide yes)
 			(show_name no)
@@ -9593,7 +9593,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
 			(at 220.98 85.598 90)
 			(hide yes)
 			(show_name no)
@@ -9675,7 +9675,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D10.0mm"
 			(at 231.14 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -9766,7 +9766,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
 			(at 181.61 107.188 90)
 			(hide yes)
 			(show_name no)
@@ -10003,7 +10003,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
 			(at 193.802 116.84 90)
 			(hide yes)
 			(show_name no)
@@ -10162,7 +10162,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Motors:Vybronics_VZ30C1T8219732L"
 			(at 190.5 49.276 0)
 			(hide yes)
 			(show_name no)
@@ -10396,7 +10396,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
 			(at 217.17 122.428 90)
 			(hide yes)
 			(show_name no)
@@ -10556,7 +10556,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-39-3"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92L_HandSolder"
 			(at 236.22 85.725 0)
 			(hide yes)
 			(show_name no)
